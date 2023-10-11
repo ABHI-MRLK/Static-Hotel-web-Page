@@ -1,0 +1,77 @@
+*{
+  padding: 0%;
+  margin: 0px;
+  background-color: #701c21;
+  color: aliceblue;
+  font-family: Comic Sans MS;
+}
+.startpage{
+  padding: 20px;
+  margin: 20px;
+}
+.heading1{
+  background-color: transparent;
+    text-align: center;
+    padding-bottom: 70px;
+    font-size: 50px;
+}
+.heading2{
+  text-align: left;
+  font-size: 30px;
+}
+
+.types{
+    padding-top: 60px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.t{
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 50px;
+    width: 69%;
+    
+}
+
+.image{
+  text-align: center;
+}
+th, td {
+    width: 150px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+
+th{
+    background-color: brown;
+}
+
+
+ul{
+    padding-left: 30px;
+    background-color: transparent;
+}
+
+
+.booknow{
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 25px;
+    padding-bottom: 45px;
+}
+
+footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    
+    background-color: #102D18;
+}
+#footpara{
+    color: white ;
+    background-color: transparent;
+    padding-right: 50px;
+}
